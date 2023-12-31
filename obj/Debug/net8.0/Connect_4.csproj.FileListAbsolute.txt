@@ -1,0 +1,14 @@
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\bin\Debug\net8.0\Connect_4.exe
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\bin\Debug\net8.0\Connect_4.deps.json
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\bin\Debug\net8.0\Connect_4.runtimeconfig.json
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\bin\Debug\net8.0\Connect_4.dll
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\bin\Debug\net8.0\Connect_4.pdb
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.AssemblyInfoInputs.cache
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.AssemblyInfo.cs
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.csproj.CoreCompileInputs.cache
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.dll
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\refint\Connect_4.dll
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.pdb
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\Connect_4.genruntimeconfig.cache
+C:\Users\Thuis\Desktop\CTG Test Automation\Connect_4\obj\Debug\net8.0\ref\Connect_4.dll
